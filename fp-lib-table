@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name ArduinoISPHat)(type KiCad)(uri ${KIPRJMOD}/ArduinoISPHat.pretty)(options "")(descr ""))
+)
